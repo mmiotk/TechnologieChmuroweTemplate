@@ -1,0 +1,27 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{1}
+
+\bibitem{gu2013memory}
+Lei Gu and Huan Li, \emph{Memory or time: Performance evaluation for iterative
+  operation on hadoop and spark}, High Performance Computing and Communications
+  \& 2013 IEEE International Conference on Embedded and Ubiquitous Computing
+  (HPCC\_EUC), 2013 IEEE 10th International Conference on, IEEE, 2013,
+  pp.~721--727.
+
+\bibitem{quora}
+Afshan K., \emph{What is the difference between hadoop and spark?}, 2017.
+
+\bibitem{logz.io}
+Amir K., \emph{How do hadoop and spark stack up?}, 2018.
+
+\bibitem{ExampleBook}
+R.~Elmasri oraz S.B.~Navathe, \emph{Wprowadzenie do systemów baz danych},
+  Helion, 2019.
+
+\end{thebibliography}
